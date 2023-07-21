@@ -1,0 +1,17 @@
+1.Supervised Learning: In supervised learning, the model is trained using labeled data, meaning the input data is accompanied by corresponding target or outcome labels.
+
+➡Linear Regression: It models the relationship between the input features and the target variable as a linear function, aiming to minimize the difference between predicted and actual values.
+➡Logistic Regression: Logistic regression is used for binary classification problems.
+➡Support Vector Machines : SVM is a powerful algorithm for both classification and regression tasks.
+➡Decision Trees: Decision trees are tree-like structures that make sequential decisions based on feature values to arrive at a final prediction. They are versatile and easy to interpret.
+➡Random Forest: Random Forest is an ensemble method that combines multiple decision trees to improve predictive accuracy and reduce overfitting.
+➡K-Nearest Neighbors (KNN): KNN is a simple and intuitive algorithm that classifies data points based on the majority class among their k-nearest neighbors in the feature space.
+➡Naive Bayes: Naive Bayes is a probabilistic algorithm based on Bayes' theorem, often used for text classification and spam filtering.
+
+2.Unsupervised Learning: Unsupervised learning, as the name suggests, deals with unlabeled data, where the model seeks to find patterns, structures, or relationships within the data without explicit guidance. The objective is to discover hidden structures and gain insights from unstructured data. Clustering is a popular application of unsupervised learning.
+
+➡K-Means Clustering: K-Means is a widely used clustering algorithm that partitions data into k distinct clusters based on similarity.
+➡Hierarchical Clustering: Hierarchical clustering creates a tree-like structure (dendrogram) of nested clusters, allowing for a hierarchical representation of data similarities.
+➡DBSCAN: DBSCAN groups data points based on their density and is particularly useful for datasets with varying cluster shapes and sizes.
+➡Gaussian Mixture Models : GMM is a probabilistic model that assumes data points are generated from a mixture of several Gaussian distributions.
+➡Principal Component Analysis : PCA is a dimensionality reduction technique that transforms high-dimensional data into a lower-dimensional space while preserving the most important information and maximizing variance.
